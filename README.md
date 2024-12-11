@@ -11,8 +11,18 @@
 - Get a good Anti Virus Software.
 - Keep your Devices Up to date.
 - Do not answer texts from random numbers you dont know.
+- Backup your Data frequently.
+- Monitor all your accounts regularly in case of fraud.
+- Use VPN for extra security.
 - 
-- <!---
+- [Five Secure at Home Steps](https://cybersecurity.mo.gov/secure-at-home/)
+- 5 tips from the Missouri Office of Cyber Security
+- Use Security Software
+- Keep your Operating System Patched
+- Use Strong Passwords only Memorable by You
+- Be Aware of Phishing Scams
+- Use Encryption Whenever Possible
+- 
 gpeters429/gpeters429 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
